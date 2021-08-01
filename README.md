@@ -1,4 +1,3 @@
 # Bitkub-BotAutoTrade
-<h3 align="center">Now,I will Testing the API</h3>
-<br />
-lib install => pip install -r -r requirements.txt
+<h3>*** Now,I will Testing the API ***</h3>
+<p>lib install => pip install -r -r requirements.txt</p>
