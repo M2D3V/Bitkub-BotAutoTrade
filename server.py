@@ -12,8 +12,8 @@ colorama.init()
 
 # API info
 API_HOST = 'https://api.bitkub.com'
-API_KEY = 'c9d7e531796f6901d8a2aaaa402ac2ae'
-API_SECRET = b'81ec38ce3dd845e9342f36312fba0cce'
+API_KEY = ''
+API_SECRET = b''
 
 def json_encode(data):
     return json.dumps(data, separators=(',', ':'), sort_keys=True)
